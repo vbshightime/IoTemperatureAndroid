@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Flakes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hint_email">Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="button_login">SignIn</string>
+    <string name="btn_forgot">Forgot  Password</string>
+    <string name="edit_name">User Name</string>
+    <string name="con_pass">Confirm Password</string>
+    <string name="btn_signUp">Register</string>
+    <string name="tv_percent">\u0025</string>
+    <string name="tv_celcius">℃</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_error">Enter Email Address</string>
+    <string name="email_valid_error">Enter Valid Email Address</string>
+    <string name="pass_error">Enter Valid Password</string>
+    <string name="name_error_signUp">Enter UserName</string>
+    <string name="name_notValid_error_signUp">UserName Already Taken</string>
+    <string name="email_error_signUp">Enter Email Address</string>
+    <string name="email_notValid_error_signUp">Email already registered</string>
+    <string name="pass_error_signUp">Enter Password</string>
+    <string name="email_enterValid_error_signUp">Enter Valid Email Address</string>
+    <string name="con_pass_error_signUp">Password donot match</string>
+    <string name="con_pass_error">Re-enter Your Password</string>
+
+
+</resources>

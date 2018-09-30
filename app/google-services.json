@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "328802511886",
+    "firebase_url": "https://chatmaster-49f27.firebaseio.com",
+    "project_id": "chatmaster-49f27",
+    "storage_bucket": "chatmaster-49f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328802511886:android:11d146f5ea3385db",
+        "android_client_info": {
+          "package_name": "com.example.webczar.takenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328802511886-j1b6nioiesb76ie4t8fo6fgfgu5d2gug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.webczar.takenotes",
+            "certificate_hash": "92550cc587cf18d4e5a46c019b1e25934607b1e4"
+          }
+        },
+        {
+          "client_id": "328802511886-ttfn4tgon8un2ia4hl613gcg54lpndvq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "328802511886-ttfn4tgon8un2ia4hl613gcg54lpndvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX1qXCAOjgdciC5ydpyCDREofqmnhHYoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328802511886-ttfn4tgon8un2ia4hl613gcg54lpndvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
