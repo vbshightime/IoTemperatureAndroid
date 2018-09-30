@@ -10,6 +10,7 @@
  6. At android part we are reading the JSON array from web server
  7. deserialize JSON Array to get useful values
  8. refresh it
+ 9. You can find the apk in repo  [IoTemperature](https://github.com/vbshightime/IoTemperature)
 
 
 ## Usage
