@@ -1,5 +1,5 @@
 # IoTemperature
- It's an android Application to measure Temperature and Humidity of room and give you rel time updates
+ It's an android Application to measure Temperature and Humidity of room and give you real time updates
 
 ## How it works
  1. This android application works on IoT
