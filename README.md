@@ -6,7 +6,7 @@
  2. We have deployed our hardware on NodeMCu. We are detecting Temperatute and Humidity data from DHT11 sensor.
  3. then these values are parced into JSON Array.
  4. Host a webserver at port 80 from nodemcu
- 5. Print JSON array to webserver. go here for more details [ESPServer](https://github.com/vbshightime/ESPServer)
+ 5. Print JSON array to webserver. You can find the ESP32 application espAndroid2.ino
  6. At android part we are reading the JSON array from web server
  7. deserialize JSON Array to get useful values
  8. refresh it
